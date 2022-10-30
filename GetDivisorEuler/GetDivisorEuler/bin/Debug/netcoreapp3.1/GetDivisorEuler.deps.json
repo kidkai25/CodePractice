@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GetDivisorEuler/1.0.0": {
+        "runtime": {
+          "GetDivisorEuler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GetDivisorEuler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

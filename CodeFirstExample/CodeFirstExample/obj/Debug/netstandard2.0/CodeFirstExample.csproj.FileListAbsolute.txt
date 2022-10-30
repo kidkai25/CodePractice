@@ -1,0 +1,8 @@
+C:\Users\arkid\source\repos\CodeFirstExample\CodeFirstExample\bin\Debug\netstandard2.0\CodeFirstExample.deps.json
+C:\Users\arkid\source\repos\CodeFirstExample\CodeFirstExample\bin\Debug\netstandard2.0\CodeFirstExample.dll
+C:\Users\arkid\source\repos\CodeFirstExample\CodeFirstExample\bin\Debug\netstandard2.0\CodeFirstExample.pdb
+C:\Users\arkid\source\repos\CodeFirstExample\CodeFirstExample\obj\Debug\netstandard2.0\CodeFirstExample.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\CodeFirstExample\CodeFirstExample\obj\Debug\netstandard2.0\CodeFirstExample.AssemblyInfoInputs.cache
+C:\Users\arkid\source\repos\CodeFirstExample\CodeFirstExample\obj\Debug\netstandard2.0\CodeFirstExample.AssemblyInfo.cs
+C:\Users\arkid\source\repos\CodeFirstExample\CodeFirstExample\obj\Debug\netstandard2.0\CodeFirstExample.dll
+C:\Users\arkid\source\repos\CodeFirstExample\CodeFirstExample\obj\Debug\netstandard2.0\CodeFirstExample.pdb

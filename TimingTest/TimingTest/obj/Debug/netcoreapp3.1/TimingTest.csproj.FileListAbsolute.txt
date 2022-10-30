@@ -1,0 +1,11 @@
+C:\Users\arkid\source\repos\TimingTest\TimingTest\bin\Debug\netcoreapp3.1\TimingTest.exe
+C:\Users\arkid\source\repos\TimingTest\TimingTest\bin\Debug\netcoreapp3.1\TimingTest.deps.json
+C:\Users\arkid\source\repos\TimingTest\TimingTest\bin\Debug\netcoreapp3.1\TimingTest.runtimeconfig.json
+C:\Users\arkid\source\repos\TimingTest\TimingTest\bin\Debug\netcoreapp3.1\TimingTest.runtimeconfig.dev.json
+C:\Users\arkid\source\repos\TimingTest\TimingTest\bin\Debug\netcoreapp3.1\TimingTest.dll
+C:\Users\arkid\source\repos\TimingTest\TimingTest\bin\Debug\netcoreapp3.1\TimingTest.pdb
+C:\Users\arkid\source\repos\TimingTest\TimingTest\obj\Debug\netcoreapp3.1\TimingTest.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\TimingTest\TimingTest\obj\Debug\netcoreapp3.1\TimingTest.AssemblyInfoInputs.cache
+C:\Users\arkid\source\repos\TimingTest\TimingTest\obj\Debug\netcoreapp3.1\TimingTest.AssemblyInfo.cs
+C:\Users\arkid\source\repos\TimingTest\TimingTest\obj\Debug\netcoreapp3.1\TimingTest.dll
+C:\Users\arkid\source\repos\TimingTest\TimingTest\obj\Debug\netcoreapp3.1\TimingTest.pdb

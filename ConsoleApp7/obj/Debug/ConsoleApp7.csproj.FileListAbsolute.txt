@@ -1,0 +1,7 @@
+C:\Users\arkid\source\repos\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\arkid\source\repos\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\arkid\source\repos\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\arkid\source\repos\ConsoleApp7\obj\Debug\ConsoleApp7.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\arkid\source\repos\ConsoleApp7\obj\Debug\ConsoleApp7.pdb

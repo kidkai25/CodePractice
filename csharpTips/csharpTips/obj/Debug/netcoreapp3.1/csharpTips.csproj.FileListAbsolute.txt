@@ -1,0 +1,13 @@
+C:\Users\arkid\source\repos\csharpTips\csharpTips\bin\Debug\netcoreapp3.1\csharpTips.exe
+C:\Users\arkid\source\repos\csharpTips\csharpTips\bin\Debug\netcoreapp3.1\csharpTips.deps.json
+C:\Users\arkid\source\repos\csharpTips\csharpTips\bin\Debug\netcoreapp3.1\csharpTips.runtimeconfig.json
+C:\Users\arkid\source\repos\csharpTips\csharpTips\bin\Debug\netcoreapp3.1\csharpTips.runtimeconfig.dev.json
+C:\Users\arkid\source\repos\csharpTips\csharpTips\bin\Debug\netcoreapp3.1\csharpTips.dll
+C:\Users\arkid\source\repos\csharpTips\csharpTips\bin\Debug\netcoreapp3.1\csharpTips.pdb
+C:\Users\arkid\source\repos\csharpTips\csharpTips\obj\Debug\netcoreapp3.1\csharpTips.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\csharpTips\csharpTips\obj\Debug\netcoreapp3.1\csharpTips.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\csharpTips\csharpTips\obj\Debug\netcoreapp3.1\csharpTips.AssemblyInfoInputs.cache
+C:\Users\arkid\source\repos\csharpTips\csharpTips\obj\Debug\netcoreapp3.1\csharpTips.AssemblyInfo.cs
+C:\Users\arkid\source\repos\csharpTips\csharpTips\obj\Debug\netcoreapp3.1\csharpTips.dll
+C:\Users\arkid\source\repos\csharpTips\csharpTips\obj\Debug\netcoreapp3.1\csharpTips.pdb
+C:\Users\arkid\source\repos\csharpTips\csharpTips\obj\Debug\netcoreapp3.1\csharpTips.genruntimeconfig.cache

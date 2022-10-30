@@ -1,0 +1,12 @@
+C:\Users\arkid\source\repos\BlazorMovies\Shared\bin\Debug\net5.0\BlazorMovies.Shared.deps.json
+C:\Users\arkid\source\repos\BlazorMovies\Shared\bin\Debug\net5.0\BlazorMovies.Shared.dll
+C:\Users\arkid\source\repos\BlazorMovies\Shared\bin\Debug\net5.0\ref\BlazorMovies.Shared.dll
+C:\Users\arkid\source\repos\BlazorMovies\Shared\bin\Debug\net5.0\BlazorMovies.Shared.pdb
+C:\Users\arkid\source\repos\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkid\source\repos\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.AssemblyInfoInputs.cache
+C:\Users\arkid\source\repos\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.AssemblyInfo.cs
+C:\Users\arkid\source\repos\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.dll
+C:\Users\arkid\source\repos\BlazorMovies\Shared\obj\Debug\net5.0\ref\BlazorMovies.Shared.dll
+C:\Users\arkid\source\repos\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.pdb

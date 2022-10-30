@@ -1,0 +1,7 @@
+C:\Users\arkid\source\repos\2D_matrices\bin\Debug\2D_matrices.exe.config
+C:\Users\arkid\source\repos\2D_matrices\bin\Debug\2D_matrices.exe
+C:\Users\arkid\source\repos\2D_matrices\bin\Debug\2D_matrices.pdb
+C:\Users\arkid\source\repos\2D_matrices\obj\Debug\2D_matrices.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\2D_matrices\obj\Debug\2D_matrices.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\2D_matrices\obj\Debug\2D_matrices.exe
+C:\Users\arkid\source\repos\2D_matrices\obj\Debug\2D_matrices.pdb

@@ -1,0 +1,11 @@
+C:\Users\arkid\source\repos\GetDivisorEuler\GetDivisorEuler\bin\Debug\netcoreapp3.1\GetDivisorEuler.exe
+C:\Users\arkid\source\repos\GetDivisorEuler\GetDivisorEuler\bin\Debug\netcoreapp3.1\GetDivisorEuler.deps.json
+C:\Users\arkid\source\repos\GetDivisorEuler\GetDivisorEuler\bin\Debug\netcoreapp3.1\GetDivisorEuler.runtimeconfig.json
+C:\Users\arkid\source\repos\GetDivisorEuler\GetDivisorEuler\bin\Debug\netcoreapp3.1\GetDivisorEuler.runtimeconfig.dev.json
+C:\Users\arkid\source\repos\GetDivisorEuler\GetDivisorEuler\bin\Debug\netcoreapp3.1\GetDivisorEuler.dll
+C:\Users\arkid\source\repos\GetDivisorEuler\GetDivisorEuler\bin\Debug\netcoreapp3.1\GetDivisorEuler.pdb
+C:\Users\arkid\source\repos\GetDivisorEuler\GetDivisorEuler\obj\Debug\netcoreapp3.1\GetDivisorEuler.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\GetDivisorEuler\GetDivisorEuler\obj\Debug\netcoreapp3.1\GetDivisorEuler.AssemblyInfoInputs.cache
+C:\Users\arkid\source\repos\GetDivisorEuler\GetDivisorEuler\obj\Debug\netcoreapp3.1\GetDivisorEuler.AssemblyInfo.cs
+C:\Users\arkid\source\repos\GetDivisorEuler\GetDivisorEuler\obj\Debug\netcoreapp3.1\GetDivisorEuler.dll
+C:\Users\arkid\source\repos\GetDivisorEuler\GetDivisorEuler\obj\Debug\netcoreapp3.1\GetDivisorEuler.pdb

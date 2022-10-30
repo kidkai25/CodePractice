@@ -1,0 +1,7 @@
+C:\Users\arkid\source\repos\PrefixSum3\bin\Debug\PrefixSum3.exe.config
+C:\Users\arkid\source\repos\PrefixSum3\bin\Debug\PrefixSum3.exe
+C:\Users\arkid\source\repos\PrefixSum3\bin\Debug\PrefixSum3.pdb
+C:\Users\arkid\source\repos\PrefixSum3\obj\Debug\PrefixSum3.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\PrefixSum3\obj\Debug\PrefixSum3.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\PrefixSum3\obj\Debug\PrefixSum3.exe
+C:\Users\arkid\source\repos\PrefixSum3\obj\Debug\PrefixSum3.pdb

@@ -1,0 +1,7 @@
+C:\Users\arkid\source\repos\Day15_bit_manipulation2\bin\Debug\Day15_bit_manipulation2.exe.config
+C:\Users\arkid\source\repos\Day15_bit_manipulation2\bin\Debug\Day15_bit_manipulation2.exe
+C:\Users\arkid\source\repos\Day15_bit_manipulation2\bin\Debug\Day15_bit_manipulation2.pdb
+C:\Users\arkid\source\repos\Day15_bit_manipulation2\obj\Debug\Day15_bit_manipulation2.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\Day15_bit_manipulation2\obj\Debug\Day15_bit_manipulation2.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\Day15_bit_manipulation2\obj\Debug\Day15_bit_manipulation2.exe
+C:\Users\arkid\source\repos\Day15_bit_manipulation2\obj\Debug\Day15_bit_manipulation2.pdb

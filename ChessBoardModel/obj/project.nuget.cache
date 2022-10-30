@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OcP+9YFj1C66+XY0a+9U53cHRqAZ+mNd4kR7dtVAyYoHqG3V/CHhCcV2oBZSxnbEFxSb2oPX0jB2zUvJnRk6eQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arkid\\source\\repos\\ChessBoardModel\\ChessBoardModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arkid\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\arkid\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

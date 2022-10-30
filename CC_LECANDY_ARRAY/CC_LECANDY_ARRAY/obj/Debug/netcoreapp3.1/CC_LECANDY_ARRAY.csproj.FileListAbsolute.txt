@@ -1,0 +1,11 @@
+C:\Users\arkid\source\repos\CC_LECANDY_ARRAY\CC_LECANDY_ARRAY\bin\Debug\netcoreapp3.1\CC_LECANDY_ARRAY.exe
+C:\Users\arkid\source\repos\CC_LECANDY_ARRAY\CC_LECANDY_ARRAY\bin\Debug\netcoreapp3.1\CC_LECANDY_ARRAY.deps.json
+C:\Users\arkid\source\repos\CC_LECANDY_ARRAY\CC_LECANDY_ARRAY\bin\Debug\netcoreapp3.1\CC_LECANDY_ARRAY.runtimeconfig.json
+C:\Users\arkid\source\repos\CC_LECANDY_ARRAY\CC_LECANDY_ARRAY\bin\Debug\netcoreapp3.1\CC_LECANDY_ARRAY.runtimeconfig.dev.json
+C:\Users\arkid\source\repos\CC_LECANDY_ARRAY\CC_LECANDY_ARRAY\bin\Debug\netcoreapp3.1\CC_LECANDY_ARRAY.dll
+C:\Users\arkid\source\repos\CC_LECANDY_ARRAY\CC_LECANDY_ARRAY\bin\Debug\netcoreapp3.1\CC_LECANDY_ARRAY.pdb
+C:\Users\arkid\source\repos\CC_LECANDY_ARRAY\CC_LECANDY_ARRAY\obj\Debug\netcoreapp3.1\CC_LECANDY_ARRAY.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\CC_LECANDY_ARRAY\CC_LECANDY_ARRAY\obj\Debug\netcoreapp3.1\CC_LECANDY_ARRAY.AssemblyInfoInputs.cache
+C:\Users\arkid\source\repos\CC_LECANDY_ARRAY\CC_LECANDY_ARRAY\obj\Debug\netcoreapp3.1\CC_LECANDY_ARRAY.AssemblyInfo.cs
+C:\Users\arkid\source\repos\CC_LECANDY_ARRAY\CC_LECANDY_ARRAY\obj\Debug\netcoreapp3.1\CC_LECANDY_ARRAY.dll
+C:\Users\arkid\source\repos\CC_LECANDY_ARRAY\CC_LECANDY_ARRAY\obj\Debug\netcoreapp3.1\CC_LECANDY_ARRAY.pdb

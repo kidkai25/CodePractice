@@ -1,0 +1,7 @@
+C:\Users\arkid\source\repos\ArrayInterviewProblems\bin\Debug\ArrayInterviewProblems.exe.config
+C:\Users\arkid\source\repos\ArrayInterviewProblems\bin\Debug\ArrayInterviewProblems.exe
+C:\Users\arkid\source\repos\ArrayInterviewProblems\bin\Debug\ArrayInterviewProblems.pdb
+C:\Users\arkid\source\repos\ArrayInterviewProblems\obj\Debug\ArrayInterviewProblems.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\ArrayInterviewProblems\obj\Debug\ArrayInterviewProblems.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\ArrayInterviewProblems\obj\Debug\ArrayInterviewProblems.exe
+C:\Users\arkid\source\repos\ArrayInterviewProblems\obj\Debug\ArrayInterviewProblems.pdb

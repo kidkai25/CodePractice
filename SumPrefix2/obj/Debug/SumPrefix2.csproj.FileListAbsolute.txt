@@ -1,0 +1,7 @@
+C:\Users\arkid\source\repos\SumPrefix2\bin\Debug\SumPrefix2.exe.config
+C:\Users\arkid\source\repos\SumPrefix2\bin\Debug\SumPrefix2.exe
+C:\Users\arkid\source\repos\SumPrefix2\bin\Debug\SumPrefix2.pdb
+C:\Users\arkid\source\repos\SumPrefix2\obj\Debug\SumPrefix2.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\SumPrefix2\obj\Debug\SumPrefix2.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\SumPrefix2\obj\Debug\SumPrefix2.exe
+C:\Users\arkid\source\repos\SumPrefix2\obj\Debug\SumPrefix2.pdb

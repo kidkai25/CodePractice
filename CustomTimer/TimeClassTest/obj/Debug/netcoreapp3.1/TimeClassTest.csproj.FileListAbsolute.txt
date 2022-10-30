@@ -1,0 +1,14 @@
+C:\Users\arkid\source\repos\CustomTimer\TimeClassTest\bin\Debug\netcoreapp3.1\TimeClassTest.exe
+C:\Users\arkid\source\repos\CustomTimer\TimeClassTest\bin\Debug\netcoreapp3.1\TimeClassTest.deps.json
+C:\Users\arkid\source\repos\CustomTimer\TimeClassTest\bin\Debug\netcoreapp3.1\TimeClassTest.runtimeconfig.json
+C:\Users\arkid\source\repos\CustomTimer\TimeClassTest\bin\Debug\netcoreapp3.1\TimeClassTest.runtimeconfig.dev.json
+C:\Users\arkid\source\repos\CustomTimer\TimeClassTest\bin\Debug\netcoreapp3.1\TimeClassTest.dll
+C:\Users\arkid\source\repos\CustomTimer\TimeClassTest\bin\Debug\netcoreapp3.1\TimeClassTest.pdb
+C:\Users\arkid\source\repos\CustomTimer\TimeClassTest\bin\Debug\netcoreapp3.1\CustomTimer.dll
+C:\Users\arkid\source\repos\CustomTimer\TimeClassTest\bin\Debug\netcoreapp3.1\CustomTimer.pdb
+C:\Users\arkid\source\repos\CustomTimer\TimeClassTest\obj\Debug\netcoreapp3.1\TimeClassTest.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\CustomTimer\TimeClassTest\obj\Debug\netcoreapp3.1\TimeClassTest.AssemblyInfoInputs.cache
+C:\Users\arkid\source\repos\CustomTimer\TimeClassTest\obj\Debug\netcoreapp3.1\TimeClassTest.AssemblyInfo.cs
+C:\Users\arkid\source\repos\CustomTimer\TimeClassTest\obj\Debug\netcoreapp3.1\TimeClassTest.csproj.CopyComplete
+C:\Users\arkid\source\repos\CustomTimer\TimeClassTest\obj\Debug\netcoreapp3.1\TimeClassTest.dll
+C:\Users\arkid\source\repos\CustomTimer\TimeClassTest\obj\Debug\netcoreapp3.1\TimeClassTest.pdb

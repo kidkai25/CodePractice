@@ -1,0 +1,11 @@
+C:\Users\arkid\source\repos\LintTest\LintTest\bin\Debug\netcoreapp3.1\LintTest.exe
+C:\Users\arkid\source\repos\LintTest\LintTest\bin\Debug\netcoreapp3.1\LintTest.deps.json
+C:\Users\arkid\source\repos\LintTest\LintTest\bin\Debug\netcoreapp3.1\LintTest.runtimeconfig.json
+C:\Users\arkid\source\repos\LintTest\LintTest\bin\Debug\netcoreapp3.1\LintTest.runtimeconfig.dev.json
+C:\Users\arkid\source\repos\LintTest\LintTest\bin\Debug\netcoreapp3.1\LintTest.dll
+C:\Users\arkid\source\repos\LintTest\LintTest\bin\Debug\netcoreapp3.1\LintTest.pdb
+C:\Users\arkid\source\repos\LintTest\LintTest\obj\Debug\netcoreapp3.1\LintTest.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\LintTest\LintTest\obj\Debug\netcoreapp3.1\LintTest.AssemblyInfoInputs.cache
+C:\Users\arkid\source\repos\LintTest\LintTest\obj\Debug\netcoreapp3.1\LintTest.AssemblyInfo.cs
+C:\Users\arkid\source\repos\LintTest\LintTest\obj\Debug\netcoreapp3.1\LintTest.dll
+C:\Users\arkid\source\repos\LintTest\LintTest\obj\Debug\netcoreapp3.1\LintTest.pdb

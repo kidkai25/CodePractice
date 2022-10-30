@@ -1,0 +1,7 @@
+C:\Users\arkid\source\repos\ConsoleApp35\bin\Debug\ConsoleApp35.exe.config
+C:\Users\arkid\source\repos\ConsoleApp35\bin\Debug\ConsoleApp35.exe
+C:\Users\arkid\source\repos\ConsoleApp35\bin\Debug\ConsoleApp35.pdb
+C:\Users\arkid\source\repos\ConsoleApp35\obj\Debug\ConsoleApp35.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\ConsoleApp35\obj\Debug\ConsoleApp35.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\ConsoleApp35\obj\Debug\ConsoleApp35.exe
+C:\Users\arkid\source\repos\ConsoleApp35\obj\Debug\ConsoleApp35.pdb

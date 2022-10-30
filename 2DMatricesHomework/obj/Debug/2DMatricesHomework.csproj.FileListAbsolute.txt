@@ -1,0 +1,7 @@
+C:\Users\arkid\source\repos\2DMatricesHomework\bin\Debug\2DMatricesHomework.exe.config
+C:\Users\arkid\source\repos\2DMatricesHomework\bin\Debug\2DMatricesHomework.exe
+C:\Users\arkid\source\repos\2DMatricesHomework\bin\Debug\2DMatricesHomework.pdb
+C:\Users\arkid\source\repos\2DMatricesHomework\obj\Debug\2DMatricesHomework.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\2DMatricesHomework\obj\Debug\2DMatricesHomework.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\2DMatricesHomework\obj\Debug\2DMatricesHomework.exe
+C:\Users\arkid\source\repos\2DMatricesHomework\obj\Debug\2DMatricesHomework.pdb

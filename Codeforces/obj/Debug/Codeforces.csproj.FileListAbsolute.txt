@@ -1,0 +1,7 @@
+C:\Users\arkid\source\repos\Codeforces\bin\Debug\Codeforces.exe.config
+C:\Users\arkid\source\repos\Codeforces\bin\Debug\Codeforces.exe
+C:\Users\arkid\source\repos\Codeforces\bin\Debug\Codeforces.pdb
+C:\Users\arkid\source\repos\Codeforces\obj\Debug\Codeforces.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\Codeforces\obj\Debug\Codeforces.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\Codeforces\obj\Debug\Codeforces.exe
+C:\Users\arkid\source\repos\Codeforces\obj\Debug\Codeforces.pdb

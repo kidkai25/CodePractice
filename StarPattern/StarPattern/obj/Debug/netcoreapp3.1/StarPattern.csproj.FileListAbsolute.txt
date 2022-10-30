@@ -1,0 +1,13 @@
+C:\Users\arkid\source\repos\StarPattern\StarPattern\bin\Debug\netcoreapp3.1\StarPattern.exe
+C:\Users\arkid\source\repos\StarPattern\StarPattern\bin\Debug\netcoreapp3.1\StarPattern.deps.json
+C:\Users\arkid\source\repos\StarPattern\StarPattern\bin\Debug\netcoreapp3.1\StarPattern.runtimeconfig.json
+C:\Users\arkid\source\repos\StarPattern\StarPattern\bin\Debug\netcoreapp3.1\StarPattern.runtimeconfig.dev.json
+C:\Users\arkid\source\repos\StarPattern\StarPattern\bin\Debug\netcoreapp3.1\StarPattern.dll
+C:\Users\arkid\source\repos\StarPattern\StarPattern\bin\Debug\netcoreapp3.1\StarPattern.pdb
+C:\Users\arkid\source\repos\StarPattern\StarPattern\obj\Debug\netcoreapp3.1\StarPattern.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\StarPattern\StarPattern\obj\Debug\netcoreapp3.1\StarPattern.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\StarPattern\StarPattern\obj\Debug\netcoreapp3.1\StarPattern.AssemblyInfoInputs.cache
+C:\Users\arkid\source\repos\StarPattern\StarPattern\obj\Debug\netcoreapp3.1\StarPattern.AssemblyInfo.cs
+C:\Users\arkid\source\repos\StarPattern\StarPattern\obj\Debug\netcoreapp3.1\StarPattern.dll
+C:\Users\arkid\source\repos\StarPattern\StarPattern\obj\Debug\netcoreapp3.1\StarPattern.pdb
+C:\Users\arkid\source\repos\StarPattern\StarPattern\obj\Debug\netcoreapp3.1\StarPattern.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\arkid\source\repos\CC_SNUGFIT\CC_SNUGFIT\bin\Debug\netcoreapp3.1\CC_SNUGFIT.exe
+C:\Users\arkid\source\repos\CC_SNUGFIT\CC_SNUGFIT\bin\Debug\netcoreapp3.1\CC_SNUGFIT.deps.json
+C:\Users\arkid\source\repos\CC_SNUGFIT\CC_SNUGFIT\bin\Debug\netcoreapp3.1\CC_SNUGFIT.runtimeconfig.json
+C:\Users\arkid\source\repos\CC_SNUGFIT\CC_SNUGFIT\bin\Debug\netcoreapp3.1\CC_SNUGFIT.runtimeconfig.dev.json
+C:\Users\arkid\source\repos\CC_SNUGFIT\CC_SNUGFIT\bin\Debug\netcoreapp3.1\CC_SNUGFIT.dll
+C:\Users\arkid\source\repos\CC_SNUGFIT\CC_SNUGFIT\bin\Debug\netcoreapp3.1\CC_SNUGFIT.pdb
+C:\Users\arkid\source\repos\CC_SNUGFIT\CC_SNUGFIT\obj\Debug\netcoreapp3.1\CC_SNUGFIT.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\CC_SNUGFIT\CC_SNUGFIT\obj\Debug\netcoreapp3.1\CC_SNUGFIT.AssemblyInfoInputs.cache
+C:\Users\arkid\source\repos\CC_SNUGFIT\CC_SNUGFIT\obj\Debug\netcoreapp3.1\CC_SNUGFIT.AssemblyInfo.cs
+C:\Users\arkid\source\repos\CC_SNUGFIT\CC_SNUGFIT\obj\Debug\netcoreapp3.1\CC_SNUGFIT.dll
+C:\Users\arkid\source\repos\CC_SNUGFIT\CC_SNUGFIT\obj\Debug\netcoreapp3.1\CC_SNUGFIT.pdb

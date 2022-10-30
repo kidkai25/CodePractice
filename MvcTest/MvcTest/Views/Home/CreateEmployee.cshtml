@@ -1,0 +1,27 @@
+﻿@model  MvcTest.Models.Employee
+@{
+    ViewBag.Title = "CreateEmployee";
+}
+
+<h2>CreateEmployee</h2>
+
+<b>Last Added Employee</b>
+<blockquote>
+    @Html.DisplayTextFor(x => x.Name)
+    @Html.DisplayTextFor(x => x.Age)
+</blockquote>
+
+@using (Html.BeginForm())
+{
+    
+    @Html.LabelFor(x => x.Name)
+    @Html.TextBoxFor(x => x.Name)
+
+    <br />
+    @Html.LabelFor(x => x.Age)
+    @Html.TextBoxFor(x => x.Age)
+
+    <input type="submit" name="Save Employee" />
+}
+
+

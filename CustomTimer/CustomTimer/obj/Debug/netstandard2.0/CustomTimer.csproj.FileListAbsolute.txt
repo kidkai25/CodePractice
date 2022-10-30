@@ -1,0 +1,8 @@
+C:\Users\arkid\source\repos\CustomTimer\CustomTimer\bin\Debug\netstandard2.0\CustomTimer.deps.json
+C:\Users\arkid\source\repos\CustomTimer\CustomTimer\bin\Debug\netstandard2.0\CustomTimer.dll
+C:\Users\arkid\source\repos\CustomTimer\CustomTimer\bin\Debug\netstandard2.0\CustomTimer.pdb
+C:\Users\arkid\source\repos\CustomTimer\CustomTimer\obj\Debug\netstandard2.0\CustomTimer.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\CustomTimer\CustomTimer\obj\Debug\netstandard2.0\CustomTimer.AssemblyInfoInputs.cache
+C:\Users\arkid\source\repos\CustomTimer\CustomTimer\obj\Debug\netstandard2.0\CustomTimer.AssemblyInfo.cs
+C:\Users\arkid\source\repos\CustomTimer\CustomTimer\obj\Debug\netstandard2.0\CustomTimer.dll
+C:\Users\arkid\source\repos\CustomTimer\CustomTimer\obj\Debug\netstandard2.0\CustomTimer.pdb

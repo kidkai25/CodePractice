@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars", "CodeWars\CodeWars.csproj", "{3F7DF4F6-6AD6-43E7-8E5D-1FF29098AFF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{9578AADA-E59A-49FE-A3F4-CC50CEF63E0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F7DF4F6-6AD6-43E7-8E5D-1FF29098AFF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7DF4F6-6AD6-43E7-8E5D-1FF29098AFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7DF4F6-6AD6-43E7-8E5D-1FF29098AFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7DF4F6-6AD6-43E7-8E5D-1FF29098AFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9578AADA-E59A-49FE-A3F4-CC50CEF63E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9578AADA-E59A-49FE-A3F4-CC50CEF63E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9578AADA-E59A-49FE-A3F4-CC50CEF63E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9578AADA-E59A-49FE-A3F4-CC50CEF63E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B410775-95C2-4F6C-A8F1-7061073974A1}
+	EndGlobalSection
+EndGlobal

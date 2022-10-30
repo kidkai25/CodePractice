@@ -1,0 +1,7 @@
+C:\Users\arkid\source\repos\cf_1705\bin\Debug\cf_1705.exe.config
+C:\Users\arkid\source\repos\cf_1705\bin\Debug\cf_1705.exe
+C:\Users\arkid\source\repos\cf_1705\bin\Debug\cf_1705.pdb
+C:\Users\arkid\source\repos\cf_1705\obj\Debug\cf_1705.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\cf_1705\obj\Debug\cf_1705.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\cf_1705\obj\Debug\cf_1705.exe
+C:\Users\arkid\source\repos\cf_1705\obj\Debug\cf_1705.pdb

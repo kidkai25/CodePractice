@@ -1,0 +1,7 @@
+C:\Users\arkid\source\repos\Bussen\bin\Debug\Bussen.exe.config
+C:\Users\arkid\source\repos\Bussen\bin\Debug\Bussen.exe
+C:\Users\arkid\source\repos\Bussen\bin\Debug\Bussen.pdb
+C:\Users\arkid\source\repos\Bussen\obj\Debug\Bussen.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\Bussen\obj\Debug\Bussen.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\Bussen\obj\Debug\Bussen.exe
+C:\Users\arkid\source\repos\Bussen\obj\Debug\Bussen.pdb

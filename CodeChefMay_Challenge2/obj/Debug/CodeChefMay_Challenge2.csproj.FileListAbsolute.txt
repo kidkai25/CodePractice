@@ -1,0 +1,7 @@
+C:\Users\arkid\source\repos\CodeChefMay_Challenge2\bin\Debug\CodeChefMay_Challenge2.exe.config
+C:\Users\arkid\source\repos\CodeChefMay_Challenge2\bin\Debug\CodeChefMay_Challenge2.exe
+C:\Users\arkid\source\repos\CodeChefMay_Challenge2\bin\Debug\CodeChefMay_Challenge2.pdb
+C:\Users\arkid\source\repos\CodeChefMay_Challenge2\obj\Debug\CodeChefMay_Challenge2.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\CodeChefMay_Challenge2\obj\Debug\CodeChefMay_Challenge2.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\CodeChefMay_Challenge2\obj\Debug\CodeChefMay_Challenge2.exe
+C:\Users\arkid\source\repos\CodeChefMay_Challenge2\obj\Debug\CodeChefMay_Challenge2.pdb

@@ -1,0 +1,7 @@
+C:\Users\arkid\source\repos\PrefixSum\bin\Debug\PrefixSum.exe.config
+C:\Users\arkid\source\repos\PrefixSum\bin\Debug\PrefixSum.exe
+C:\Users\arkid\source\repos\PrefixSum\bin\Debug\PrefixSum.pdb
+C:\Users\arkid\source\repos\PrefixSum\obj\Debug\PrefixSum.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\PrefixSum\obj\Debug\PrefixSum.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\PrefixSum\obj\Debug\PrefixSum.exe
+C:\Users\arkid\source\repos\PrefixSum\obj\Debug\PrefixSum.pdb

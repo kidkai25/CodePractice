@@ -1,0 +1,7 @@
+C:\Users\arkid\source\repos\Sorting\obj\Debug\Sorting.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\arkid\source\repos\Sorting\bin\Debug\Sorting.exe
+C:\Users\arkid\source\repos\Sorting\bin\Debug\Sorting.pdb
+C:\Users\arkid\source\repos\Sorting\obj\Debug\Sorting.exe
+C:\Users\arkid\source\repos\Sorting\obj\Debug\Sorting.pdb

@@ -1,0 +1,7 @@
+C:\Users\arkid\source\repos\Modular_Arithmatic\bin\Debug\Modular_Arithmatic.exe.config
+C:\Users\arkid\source\repos\Modular_Arithmatic\bin\Debug\Modular_Arithmatic.exe
+C:\Users\arkid\source\repos\Modular_Arithmatic\bin\Debug\Modular_Arithmatic.pdb
+C:\Users\arkid\source\repos\Modular_Arithmatic\obj\Debug\Modular_Arithmatic.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\Modular_Arithmatic\obj\Debug\Modular_Arithmatic.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\Modular_Arithmatic\obj\Debug\Modular_Arithmatic.exe
+C:\Users\arkid\source\repos\Modular_Arithmatic\obj\Debug\Modular_Arithmatic.pdb

@@ -1,0 +1,4 @@
+C:\Users\arkid\source\repos\CodeFirstExample\DataAccess\bin\Debug\netstandard2.0\CodeFirstExample.dll
+C:\Users\arkid\source\repos\CodeFirstExample\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\CodeFirstExample\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\arkid\source\repos\CodeFirstExample\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs

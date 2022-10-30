@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.8.3.js"></script>
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            alert("working");
+        });
+
+        $("#b1").click(function () {
+            $.ajax({
+                url: "/Home/IndexPost",
+                type: "Post",
+                dataType: "json",
+                success: function (data) {
+
+                    var clientMachineTime = new Date();
+                    var serverDate = new Date(parseInt(data.ServerDateTime.substr(6)));
+                    debugger;
+
+                    var serverAmPm = serverDate.getHours() >= 12 ? "PM" : "AM";
+                    var clientAmPm = clientMachineTime.getHours() >= 12 ? "PM" : "AM";
+
+                    var serverDateTimeFormat = serverDate.getFullYear() + "-" + serverDate.getMonth() + "-" + serverDate.getDate() + " " + serverDate.getHours() + ":" + serverDate.getMinutes() + ":" + serverDate.getSeconds() + " " + serverAmPm;
+                    var clientMachineTimeFormat = clientMachineTime.getFullYear() + "-" + clientMachineTime.getMonth() + "-" + clientMachineTime.getDate() + " " + clientMachineTime.getHours() + ":" + clientMachineTime.getMinutes() + ":" + clientMachineTime.getSeconds() + " " + clientAmPm;
+
+                    var diff = serverDate.getTime() - clientMachineTime.getTime();
+                    console.log(diff);
+                    var difference = new Date(serverDate.getTime() - clientMachineTime.getTime());
+
+                    var sign = difference < 0 ? "-" : "";
+                    var differenceFormat = sign + difference.getHours() + " h" + difference.getMinutes() + "mins";
+
+                    var clientMachineTimeFormat = 
+
+                        $("#resultDiv")[0].innerHTML = " ServerTime :" + serverDateTimeFormat + "</br >" +
+                        "Client Machine Time : " + clientMachineTimeFormat + "</br >" +
+                        "Difference :" + differenceFormat;
+                   
+                
+               }
+            })
+        })
+        
+    </script>
+</body>
+</html>

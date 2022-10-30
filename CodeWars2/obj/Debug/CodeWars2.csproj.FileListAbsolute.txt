@@ -1,0 +1,7 @@
+C:\Users\arkid\source\repos\CodeWars2\bin\Debug\CodeWars2.exe.config
+C:\Users\arkid\source\repos\CodeWars2\bin\Debug\CodeWars2.exe
+C:\Users\arkid\source\repos\CodeWars2\bin\Debug\CodeWars2.pdb
+C:\Users\arkid\source\repos\CodeWars2\obj\Debug\CodeWars2.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\CodeWars2\obj\Debug\CodeWars2.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\CodeWars2\obj\Debug\CodeWars2.exe
+C:\Users\arkid\source\repos\CodeWars2\obj\Debug\CodeWars2.pdb

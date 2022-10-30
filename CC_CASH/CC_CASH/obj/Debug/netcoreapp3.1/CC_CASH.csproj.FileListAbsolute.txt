@@ -1,0 +1,11 @@
+C:\Users\arkid\source\repos\CC_CASH\CC_CASH\bin\Debug\netcoreapp3.1\CC_CASH.exe
+C:\Users\arkid\source\repos\CC_CASH\CC_CASH\bin\Debug\netcoreapp3.1\CC_CASH.deps.json
+C:\Users\arkid\source\repos\CC_CASH\CC_CASH\bin\Debug\netcoreapp3.1\CC_CASH.runtimeconfig.json
+C:\Users\arkid\source\repos\CC_CASH\CC_CASH\bin\Debug\netcoreapp3.1\CC_CASH.runtimeconfig.dev.json
+C:\Users\arkid\source\repos\CC_CASH\CC_CASH\bin\Debug\netcoreapp3.1\CC_CASH.dll
+C:\Users\arkid\source\repos\CC_CASH\CC_CASH\bin\Debug\netcoreapp3.1\CC_CASH.pdb
+C:\Users\arkid\source\repos\CC_CASH\CC_CASH\obj\Debug\netcoreapp3.1\CC_CASH.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\CC_CASH\CC_CASH\obj\Debug\netcoreapp3.1\CC_CASH.AssemblyInfoInputs.cache
+C:\Users\arkid\source\repos\CC_CASH\CC_CASH\obj\Debug\netcoreapp3.1\CC_CASH.AssemblyInfo.cs
+C:\Users\arkid\source\repos\CC_CASH\CC_CASH\obj\Debug\netcoreapp3.1\CC_CASH.dll
+C:\Users\arkid\source\repos\CC_CASH\CC_CASH\obj\Debug\netcoreapp3.1\CC_CASH.pdb

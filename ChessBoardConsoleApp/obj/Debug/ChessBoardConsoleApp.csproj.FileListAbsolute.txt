@@ -1,0 +1,10 @@
+C:\Users\arkid\source\repos\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.exe.config
+C:\Users\arkid\source\repos\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.exe
+C:\Users\arkid\source\repos\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.pdb
+C:\Users\arkid\source\repos\ChessBoardConsoleApp\bin\Debug\ChessBoardModel.dll
+C:\Users\arkid\source\repos\ChessBoardConsoleApp\bin\Debug\ChessBoardModel.pdb
+C:\Users\arkid\source\repos\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.CopyComplete
+C:\Users\arkid\source\repos\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.exe
+C:\Users\arkid\source\repos\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.pdb

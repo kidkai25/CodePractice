@@ -1,0 +1,11 @@
+C:\Users\arkid\source\repos\PE_12\PE_12\bin\Debug\netcoreapp3.1\PE_12.exe
+C:\Users\arkid\source\repos\PE_12\PE_12\bin\Debug\netcoreapp3.1\PE_12.deps.json
+C:\Users\arkid\source\repos\PE_12\PE_12\bin\Debug\netcoreapp3.1\PE_12.runtimeconfig.json
+C:\Users\arkid\source\repos\PE_12\PE_12\bin\Debug\netcoreapp3.1\PE_12.runtimeconfig.dev.json
+C:\Users\arkid\source\repos\PE_12\PE_12\bin\Debug\netcoreapp3.1\PE_12.dll
+C:\Users\arkid\source\repos\PE_12\PE_12\bin\Debug\netcoreapp3.1\PE_12.pdb
+C:\Users\arkid\source\repos\PE_12\PE_12\obj\Debug\netcoreapp3.1\PE_12.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\PE_12\PE_12\obj\Debug\netcoreapp3.1\PE_12.AssemblyInfoInputs.cache
+C:\Users\arkid\source\repos\PE_12\PE_12\obj\Debug\netcoreapp3.1\PE_12.AssemblyInfo.cs
+C:\Users\arkid\source\repos\PE_12\PE_12\obj\Debug\netcoreapp3.1\PE_12.dll
+C:\Users\arkid\source\repos\PE_12\PE_12\obj\Debug\netcoreapp3.1\PE_12.pdb

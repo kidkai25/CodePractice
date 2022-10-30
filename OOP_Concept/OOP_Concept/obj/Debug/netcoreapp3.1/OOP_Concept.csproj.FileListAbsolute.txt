@@ -1,0 +1,13 @@
+C:\Users\arkid\source\repos\OOP_Concept\OOP_Concept\bin\Debug\netcoreapp3.1\OOP_Concept.exe
+C:\Users\arkid\source\repos\OOP_Concept\OOP_Concept\bin\Debug\netcoreapp3.1\OOP_Concept.deps.json
+C:\Users\arkid\source\repos\OOP_Concept\OOP_Concept\bin\Debug\netcoreapp3.1\OOP_Concept.runtimeconfig.json
+C:\Users\arkid\source\repos\OOP_Concept\OOP_Concept\bin\Debug\netcoreapp3.1\OOP_Concept.runtimeconfig.dev.json
+C:\Users\arkid\source\repos\OOP_Concept\OOP_Concept\bin\Debug\netcoreapp3.1\OOP_Concept.dll
+C:\Users\arkid\source\repos\OOP_Concept\OOP_Concept\bin\Debug\netcoreapp3.1\OOP_Concept.pdb
+C:\Users\arkid\source\repos\OOP_Concept\OOP_Concept\obj\Debug\netcoreapp3.1\OOP_Concept.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\OOP_Concept\OOP_Concept\obj\Debug\netcoreapp3.1\OOP_Concept.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\OOP_Concept\OOP_Concept\obj\Debug\netcoreapp3.1\OOP_Concept.AssemblyInfoInputs.cache
+C:\Users\arkid\source\repos\OOP_Concept\OOP_Concept\obj\Debug\netcoreapp3.1\OOP_Concept.AssemblyInfo.cs
+C:\Users\arkid\source\repos\OOP_Concept\OOP_Concept\obj\Debug\netcoreapp3.1\OOP_Concept.dll
+C:\Users\arkid\source\repos\OOP_Concept\OOP_Concept\obj\Debug\netcoreapp3.1\OOP_Concept.pdb
+C:\Users\arkid\source\repos\OOP_Concept\OOP_Concept\obj\Debug\netcoreapp3.1\OOP_Concept.genruntimeconfig.cache

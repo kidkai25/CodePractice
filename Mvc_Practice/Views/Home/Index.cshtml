@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row">
+    @Html.ActionLink("Click me", "About")
+
+    <form action="http://www.bing.com/search" method="get">
+        <input name="q" type="text" />
+        <input type="submit" value="!Search"/>
+    </form>
+</div>

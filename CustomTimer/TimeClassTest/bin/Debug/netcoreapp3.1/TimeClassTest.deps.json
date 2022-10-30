@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TimeClassTest/1.0.0": {
+        "dependencies": {
+          "CustomTimer": "1.0.0"
+        },
+        "runtime": {
+          "TimeClassTest.dll": {}
+        }
+      },
+      "CustomTimer/1.0.0": {
+        "runtime": {
+          "CustomTimer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TimeClassTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomTimer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

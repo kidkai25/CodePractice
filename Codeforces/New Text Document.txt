@@ -1,0 +1,62 @@
+﻿using System;
+
+namespace _8
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[,] matrix = new int[5, 5];
+            int steps = 0;
+            for (int i = 0; i < 5; i++)
+            {
+                int[] nums = Array.ConvertAll(Convert.ToString(Console.ReadLine()).Split(' '), int.Parse);
+                matrix[i, 0] = nums[0];
+                matrix[i, 1] = nums[1];
+                matrix[i, 2] = nums[2];
+                matrix[i, 3] = nums[3];
+                matrix[i, 4] = nums[4];
+            }
+            int x = 0;
+            int y = 0;
+            for (int i = 0; i < 5; i++)
+            {
+                for (int j = 0; j < 5; j++)
+                {
+                    if (matrix[i, j] == 1)
+                    {
+                        x = i;
+                        y = j;
+                        break;
+                    }
+                }
+            }
+
+            while (x != 2 || y != 2)
+            {
+                if (x < 2)
+                {
+                    steps++;
+                    x++;
+                }
+                else if (x>2)
+                {
+                    steps++;
+                    x--;
+
+                }
+                if (y < 2)
+                {
+                    steps++;
+                    y++; 
+                }
+                else if (y > 2)
+                {
+                    steps++;
+                    y--;
+                }
+            }
+            Console.WriteLine(steps);
+        }
+    }
+}

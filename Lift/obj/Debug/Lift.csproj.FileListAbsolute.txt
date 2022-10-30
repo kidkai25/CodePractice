@@ -1,0 +1,7 @@
+C:\Users\arkid\source\repos\Lift\bin\Debug\Lift.exe.config
+C:\Users\arkid\source\repos\Lift\bin\Debug\Lift.exe
+C:\Users\arkid\source\repos\Lift\bin\Debug\Lift.pdb
+C:\Users\arkid\source\repos\Lift\obj\Debug\Lift.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\Lift\obj\Debug\Lift.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\Lift\obj\Debug\Lift.exe
+C:\Users\arkid\source\repos\Lift\obj\Debug\Lift.pdb

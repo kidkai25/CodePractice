@@ -1,0 +1,7 @@
+C:\Users\arkid\source\repos\strings\bin\Debug\strings.exe.config
+C:\Users\arkid\source\repos\strings\bin\Debug\strings.exe
+C:\Users\arkid\source\repos\strings\bin\Debug\strings.pdb
+C:\Users\arkid\source\repos\strings\obj\Debug\strings.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\strings\obj\Debug\strings.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\strings\obj\Debug\strings.exe
+C:\Users\arkid\source\repos\strings\obj\Debug\strings.pdb

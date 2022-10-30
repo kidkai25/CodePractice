@@ -1,0 +1,12 @@
+C:\Users\arkid\source\repos\BlazorTestApp\Shared\bin\Debug\net5.0\BlazorTestApp.Shared.deps.json
+C:\Users\arkid\source\repos\BlazorTestApp\Shared\bin\Debug\net5.0\BlazorTestApp.Shared.dll
+C:\Users\arkid\source\repos\BlazorTestApp\Shared\bin\Debug\net5.0\ref\BlazorTestApp.Shared.dll
+C:\Users\arkid\source\repos\BlazorTestApp\Shared\bin\Debug\net5.0\BlazorTestApp.Shared.pdb
+C:\Users\arkid\source\repos\BlazorTestApp\Shared\obj\Debug\net5.0\BlazorTestApp.Shared.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\BlazorTestApp\Shared\obj\Debug\net5.0\BlazorTestApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkid\source\repos\BlazorTestApp\Shared\obj\Debug\net5.0\BlazorTestApp.Shared.AssemblyInfoInputs.cache
+C:\Users\arkid\source\repos\BlazorTestApp\Shared\obj\Debug\net5.0\BlazorTestApp.Shared.AssemblyInfo.cs
+C:\Users\arkid\source\repos\BlazorTestApp\Shared\obj\Debug\net5.0\BlazorTestApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\BlazorTestApp\Shared\obj\Debug\net5.0\BlazorTestApp.Shared.dll
+C:\Users\arkid\source\repos\BlazorTestApp\Shared\obj\Debug\net5.0\ref\BlazorTestApp.Shared.dll
+C:\Users\arkid\source\repos\BlazorTestApp\Shared\obj\Debug\net5.0\BlazorTestApp.Shared.pdb

@@ -1,0 +1,7 @@
+C:\Users\arkid\source\repos\ConsoleApp23\obj\Debug\ConsoleApp23.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\ConsoleApp23\obj\Debug\ConsoleApp23.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\ConsoleApp23\bin\Debug\ConsoleApp23.exe.config
+C:\Users\arkid\source\repos\ConsoleApp23\bin\Debug\ConsoleApp23.exe
+C:\Users\arkid\source\repos\ConsoleApp23\bin\Debug\ConsoleApp23.pdb
+C:\Users\arkid\source\repos\ConsoleApp23\obj\Debug\ConsoleApp23.exe
+C:\Users\arkid\source\repos\ConsoleApp23\obj\Debug\ConsoleApp23.pdb

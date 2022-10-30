@@ -1,0 +1,14 @@
+C:\Users\arkid\source\repos\Moq_Test2\Moq_Test2\obj\Debug\netcoreapp3.1\Moq_Test2.AssemblyInfoInputs.cache
+C:\Users\arkid\source\repos\Moq_Test2\Moq_Test2\obj\Debug\netcoreapp3.1\Moq_Test2.AssemblyInfo.cs
+C:\Users\arkid\source\repos\Moq_Test2\Moq_Test2\bin\Debug\netcoreapp3.1\Moq_Test2.deps.json
+C:\Users\arkid\source\repos\Moq_Test2\Moq_Test2\bin\Debug\netcoreapp3.1\Moq_Test2.runtimeconfig.json
+C:\Users\arkid\source\repos\Moq_Test2\Moq_Test2\bin\Debug\netcoreapp3.1\Moq_Test2.runtimeconfig.dev.json
+C:\Users\arkid\source\repos\Moq_Test2\Moq_Test2\bin\Debug\netcoreapp3.1\Moq_Test2.dll
+C:\Users\arkid\source\repos\Moq_Test2\Moq_Test2\bin\Debug\netcoreapp3.1\Moq_Test2.pdb
+C:\Users\arkid\source\repos\Moq_Test2\Moq_Test2\obj\Debug\netcoreapp3.1\Moq_Test2.dll
+C:\Users\arkid\source\repos\Moq_Test2\Moq_Test2\obj\Debug\netcoreapp3.1\Moq_Test2.pdb
+C:\Users\arkid\source\repos\Moq_Test2\Moq_Test2\obj\Debug\netcoreapp3.1\Moq_Test2.genruntimeconfig.cache
+C:\Users\arkid\source\repos\Moq_Test2\Moq_Test2\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\arkid\source\repos\Moq_Test2\Moq_Test2\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\arkid\source\repos\Moq_Test2\Moq_Test2\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\arkid\source\repos\Moq_Test2\Moq_Test2\obj\Debug\netcoreapp3.1\Moq_Test2.csproj.CoreCompileInputs.cache

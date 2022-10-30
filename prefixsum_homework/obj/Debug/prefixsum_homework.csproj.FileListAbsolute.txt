@@ -1,0 +1,7 @@
+C:\Users\arkid\source\repos\prefixsum_homework\bin\Debug\prefixsum_homework.exe.config
+C:\Users\arkid\source\repos\prefixsum_homework\bin\Debug\prefixsum_homework.exe
+C:\Users\arkid\source\repos\prefixsum_homework\bin\Debug\prefixsum_homework.pdb
+C:\Users\arkid\source\repos\prefixsum_homework\obj\Debug\prefixsum_homework.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\prefixsum_homework\obj\Debug\prefixsum_homework.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\prefixsum_homework\obj\Debug\prefixsum_homework.exe
+C:\Users\arkid\source\repos\prefixsum_homework\obj\Debug\prefixsum_homework.pdb

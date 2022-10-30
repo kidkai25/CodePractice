@@ -1,0 +1,15 @@
+C:\Users\arkid\source\repos\SpreadsheetLight_Console\bin\Debug\SpreadsheetLight_Console.exe.config
+C:\Users\arkid\source\repos\SpreadsheetLight_Console\bin\Debug\SpreadsheetLight_Console.exe
+C:\Users\arkid\source\repos\SpreadsheetLight_Console\bin\Debug\SpreadsheetLight_Console.pdb
+C:\Users\arkid\source\repos\SpreadsheetLight_Console\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\arkid\source\repos\SpreadsheetLight_Console\bin\Debug\SpreadsheetLight.dll
+C:\Users\arkid\source\repos\SpreadsheetLight_Console\bin\Debug\System.Drawing.Common.dll
+C:\Users\arkid\source\repos\SpreadsheetLight_Console\bin\Debug\System.IO.Packaging.dll
+C:\Users\arkid\source\repos\SpreadsheetLight_Console\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\arkid\source\repos\SpreadsheetLight_Console\bin\Debug\SpreadsheetLight.xml
+C:\Users\arkid\source\repos\SpreadsheetLight_Console\bin\Debug\System.IO.Packaging.xml
+C:\Users\arkid\source\repos\SpreadsheetLight_Console\obj\Debug\SpreadsheetLight_Console.csprojAssemblyReference.cache
+C:\Users\arkid\source\repos\SpreadsheetLight_Console\obj\Debug\SpreadsheetLight_Console.csproj.CoreCompileInputs.cache
+C:\Users\arkid\source\repos\SpreadsheetLight_Console\obj\Debug\SpreadsheetLight_Console.csproj.CopyComplete
+C:\Users\arkid\source\repos\SpreadsheetLight_Console\obj\Debug\SpreadsheetLight_Console.exe
+C:\Users\arkid\source\repos\SpreadsheetLight_Console\obj\Debug\SpreadsheetLight_Console.pdb
