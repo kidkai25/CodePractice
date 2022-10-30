@@ -1,6 +1,8 @@
-﻿using System.ComponentModel.Design.Serialization;
+﻿using System.Collections.Generic;
+using System.ComponentModel.Design.Serialization;
 using System.Data;
 using System.Linq.Expressions;
+using System.Xml.XPath;
 
 namespace Trees
 {
@@ -20,8 +22,16 @@ namespace Trees
             //root.left.left.left.left = new TreeNode(10);
 
             //var x = height(root);
-            var x = HasPathSum(root, 22);
-            Console.WriteLine(x);
+            //var x = HasPathSum(root, 22);
+            var res = Serialize(root);
+            foreach(var x  in res)
+            {
+                if (x == -1)
+                    Console.WriteLine();
+                else
+                    Console.Write(x + " ");
+            }
+            //Console.WriteLine(x);
 
 
         }
@@ -46,6 +56,36 @@ namespace Trees
             if (A == null)
                 return -1;
             return Math.Max(height(A.left), height(A.right)) + 1;
+        }
+
+        static List<int> Serialize(TreeNode A)
+        {
+            Queue<TreeNode> treeNodes = new Queue<TreeNode>();
+            List<int> result = new List<int>();
+            treeNodes.Enqueue(A);
+            //treeNodes.Enqueue(null);
+            //result.Add(A.val);
+            while(treeNodes.Count > 0)
+            {
+                //pop
+                var ele = treeNodes.Dequeue();
+
+
+                if (ele == null)
+                {
+                    result.Add(-1);
+                    //treeNodes.Enqueue(null); //new level
+                }
+                else
+                {
+
+                        treeNodes.Enqueue(ele.left);
+                        treeNodes.Enqueue(ele.right);
+                    result.Add(ele.val);
+                }
+            }
+
+            return result;
         }
     }
 

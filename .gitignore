@@ -3,3 +3,7 @@
 ################################################################################
 
 /Trees/.vs
+/Trees/Trees/obj
+/Trees/Trees/bin/Debug/net6.0
+/Trees/Trees.sln
+/Trees/Trees/Trees.csproj
